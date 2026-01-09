@@ -42,6 +42,7 @@ Tools: Git, GitHub
 ## Languages
 Spanish: Native
 English: Intermediate (B1) – Technical English for Science & Engineering
+German: Basic A2
 
 ## Contact
 GitHub: https://github.com/kimac28p/Kimberly-alcala-portfolio-
